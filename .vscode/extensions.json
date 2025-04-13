@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "bmewburn.vscode-intelephense-client",       // PHP Intelephense
+    "MehediDracula.php-namespace-resolver",      // PHP Namespace Resolver
+    "neilbrayfield.php-docblocker",              // PHP DocBlocker
+    "xdebug.php-debug",                          // PHP Debug
+    "ritwickdey.LiveServer",                     // Live Server
+    "formulahendry.auto-rename-tag",             // Auto Rename Tag
+    "christian-kohler.path-intellisense",        // Path Intellisense
+    "pranaygp.vscode-css-peek",                  // CSS Peek
+    "eamodio.gitlens",                           // GitLens
+    "EditorConfig.EditorConfig",                 // EditorConfig
+    "CoenraadS.bracket-pair-colorizer-2",        // Bracket Pair Colorizer 2
+    "mtxr.sqltools",                             // SQLTools
+    "mtxr.sqltools-driver-mysql",                // SQLTools MySQL/MariaDB Driver
+    "wayou.vscode-todo-highlight",               // TODO Highlight
+    "alefragnani.project-manager",               // Project Manager
+    "naoray.codeigniter4-snippets"               // CodeIgniter 4 Snippets (opcional)
+  ]
+}
